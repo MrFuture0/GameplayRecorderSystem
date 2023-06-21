@@ -1,16 +1,16 @@
 # ReplaySystem
  gameplay recorder in unreal engine
 
-Features:
+Features: <br /> 
 
-Records gameplay footage from any perspective
-Playbacks recorded footage 
-Play the recording from the beginning
+Records gameplay footage from any perspective <br /> 
+Playbacks recorded footage <br /> 
+Play the recording from the beginning <br /> 
 
-Usage:
+Usage: <br /> 
 
-When you press 
-Button 1) start recording the gameplay.
-Button 2) stop recording the gameplay
-Button 3) play recorded gameplay
-Button 4) it takes the recording to the beginning.
+When you press <br /> 
+Button 1) start recording the gameplay.  <br /> 
+Button 2) stop recording the gameplay <br /> 
+Button 3) play recorded gameplay <br /> 
+Button 4) it takes the recording to the beginning. <br /> 
